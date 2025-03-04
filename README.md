@@ -1,3 +1,7 @@
+# 100DaysJulia
+
+A 100-day Julia learning plan
+
 | Day | Date       | Problem              | Description                                                                                                         | Concept                     | References | ✅ |
 |-----|------------|----------------------|---------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|---|
 | 0   | 2025.03.04 | Hello World          | Classic Hello World                                                                                                 | String interpolation        |            | ✅ |
